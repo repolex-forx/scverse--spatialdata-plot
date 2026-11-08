@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scverse/spatialdata-plot/commit/6c8b76d3fa866c9378f4b4b8fe1ae17b3b3d7b8c",
       "git:hexsha": "6c8b76d3fa866c9378f4b4b8fe1ae17b3b3d7b8c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.3",
+      "repolex:parsedAt": "2026-11-08T12:31:50.429174+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/spatialdata-plot/commit/5164bd941e0404b61f8e10005e9b442ebb29f015",
