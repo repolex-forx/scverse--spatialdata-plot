@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "spatialdata-plot",
+  "versions": [
+    {
+      "commit": "6c8b76d3fa866c9378f4b4b8fe1ae17b3b3d7b8c",
+      "tag": "v0.4.3",
+      "parsed_at": "2026-11-08T12:31:50.429867+00:00"
+    }
+  ]
+}
